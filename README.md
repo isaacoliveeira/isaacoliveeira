@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Isaac Oliveira 👋
 
 [![Instagam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaac.oliveeira)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/isaac-oliveira-1557612b6)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-oliveira-1557612b6)
 
 
 ![isaacoliveeira GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacoliveeira&show_icons=true&theme=dark)
